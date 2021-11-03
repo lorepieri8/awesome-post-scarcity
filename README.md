@@ -19,13 +19,13 @@ A curated list of awesome Post-Scarcity links, books and resources.
 ***
 
 
-#### General
+### General
 
 - [Book] [Post-Scarcity Anarchism](https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism)
 - [Fiction Books] [The Culture Series](https://en.wikipedia.org/wiki/Culture_series)   
 - [Blog Post] [A Roadmap to a Post-Scarcity Society](https://lorenzopieri.com/post_scarcity/)  
 
-#### Economics
+### Economics
 
 - [Book] [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://www.goodreads.com/en/book/show/50157837-the-price-of-tomorrow) 
 
@@ -33,7 +33,7 @@ A curated list of awesome Post-Scarcity links, books and resources.
 
 - [Website] [Ubi Research](https://ubiresearch.org/ ) - UBI Research is a think tank built to examine the merits and possible implementations of a UBI.
 
-#### Technology
+### Technology
 
 ##### Artificial Intelligence and Robotics
 
