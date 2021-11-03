@@ -23,11 +23,16 @@ A curated list of awesome Post-Scarcity links, books and resources.
 
 - [Book] [Post-Scarcity Anarchism](https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism)
 - [Fiction Books] [The Culture Series](https://en.wikipedia.org/wiki/Culture_series)   
-- [Blog Post] [A Roadmap to a Post-Scarcity Society](https://lorenzopieri.com/post_scarcity/)  
+- [Blog Post] [A Roadmap to a Post-Scarcity Society](https://lorenzopieri.com/post_scarcity/)
+- [Forum] [Reddit Post-Scarcity](https://www.reddit.com/r/PostScarcity/)
+- [Video] [Post Scarcity Civilizations](https://www.youtube.com/watch?v=_Kt7883oTd0)
+
+
 
 ### Economics
 
 - [Book] [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://www.goodreads.com/en/book/show/50157837-the-price-of-tomorrow) 
+- [Book] [Rise of the Robots: Technology and the Threat of a Jobless Future](https://www.goodreads.com/book/show/22928874-rise-of-the-robots) 
 
 ##### Universal Basic Income
 
