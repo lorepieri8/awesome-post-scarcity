@@ -7,7 +7,7 @@ Your contributions are welcome!
 * Add section if needed.
     * Add section description.
     * Add section title to Table of contents.
-* Add your links: `* [project-name](http://example.com/) - A short description ends with a dot.`
+* Follow the notations and conventions already adopted.
 * Check your spelling and grammar.
 * Send a Pull Request.
 
