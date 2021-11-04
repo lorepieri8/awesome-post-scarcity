@@ -1,5 +1,6 @@
 # Awesome Post Scarcity  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome Post-Scarcity links, books and resources.
+
 To add a new entry please check [here](https://github.com/lorepieri8/awesome-post-scarcity/blob/main/CONTRIBUTING.md) and send a Pull Request.
 
 
