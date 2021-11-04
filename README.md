@@ -52,7 +52,7 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 
 ##### Self Replication and Nanotechnology 
 
-- [Book] [Kinematic Self-Replicating Machines](http://www.molecularassembler.com/KSRM.htm) This book offers a general review of the voluminous theoretical and experimental literature pertaining to physical self-replicating systems and self-replication.
+- [Book] [Kinematic Self-Replicating Machines](http://www.molecularassembler.com/KSRM.htm) - This book offers a general review of the voluminous theoretical and experimental literature pertaining to physical self-replicating systems and self-replication.
 
 ##### 3d Printing
 
