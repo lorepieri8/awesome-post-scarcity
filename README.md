@@ -45,10 +45,15 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 ##### Artificial Intelligence and Robotics
 
 - [Website] [Artificial General Intelligence - A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html) - Overview of AGI research.
+- [Book] [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near) 
+- [Book] [Superintelligence: Paths, Dangers, Strategies](https://www.goodreads.com/book/show/20527133-superintelligence) 
+
 
 ##### Asteroid Mining and Space Tech
 
 - [Book] [Asteroid Mining 101](https://www.goodreads.com/en/book/show/24208246-asteroid-mining-101) 
+- [Book] [Space Mining and Manufacturing: Off-World Resources and Revolutionary Engineering Techniques](https://www.goodreads.com/book/show/50626244-space-mining-and-manufacturing) 
+
 
 ##### Self Replication and Nanotechnology 
 
