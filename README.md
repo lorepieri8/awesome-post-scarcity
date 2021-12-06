@@ -23,11 +23,13 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 
 ### General
 
-- [Book] [Post-Scarcity Anarchism](https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism)
-- [Fiction Books] [The Culture Series](https://en.wikipedia.org/wiki/Culture_series)   
-- [Blog Post] [A Roadmap to a Post-Scarcity Society](https://lorenzopieri.com/post_scarcity/)
-- [Forum] [Reddit Post-Scarcity](https://www.reddit.com/r/PostScarcity/)
-- [Video] [Post Scarcity Civilizations](https://www.youtube.com/watch?v=_Kt7883oTd0)
+- [Book] [Post-Scarcity Anarchism](https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism) - Descriptin of an economic system based on social ecology, libertarian municipalism, and an abundance of fundamental resources.
+- [Fiction Books] [The Culture Series](https://en.wikipedia.org/wiki/Culture_series) - Scifi series, in post-scarcity and space-faring society.   
+- [Blog Post] [A Roadmap to a Post-Scarcity Society](https://lorenzopieri.com/post_scarcity/) - An actionable roadmap to post-scarcity and the role of automation.
+- [Blog Post] [Moore's Law for Everything](https://moores.samaltman.com/) - A US-centric proposal to redistribute AI benefits. 
+- [Forum] [Reddit Post-Scarcity](https://www.reddit.com/r/PostScarcity/) 
+- [Video] [Post Scarcity Civilizations](https://www.youtube.com/watch?v=_Kt7883oTd0) - Broad exploration of how a post scarcity civilization could look like.
+
 
 
 
@@ -45,8 +47,9 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 ##### Artificial Intelligence and Robotics
 
 - [Website] [Artificial General Intelligence - A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html) - Overview of AGI research.
-- [Book] [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near) 
+- [Book] [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near) - Classic book on exponential progress.
 - [Book] [Superintelligence: Paths, Dangers, Strategies](https://www.goodreads.com/book/show/20527133-superintelligence) 
+- [Book] [Singularity Hypotheses](https://www.goodreads.com/book/show/16198679-singularity-hypotheses) - AI singularity scenarios. 
 
 
 ##### Asteroid Mining and Space Tech
