@@ -16,14 +16,12 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
   * [3d Printing](#3d-printing)
 
   
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ***
 
 
 ### General
 
-- [Book] [Post-Scarcity Anarchism](https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism) - Descriptin of an economic system based on social ecology, libertarian municipalism, and an abundance of fundamental resources.
+- [Book] [Post-Scarcity Anarchism](https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism) - Description of an economic system based on social ecology, libertarian municipalism, and an abundance of fundamental resources.
 - [Fiction Books] [The Culture Series](https://en.wikipedia.org/wiki/Culture_series) - Scifi series, in post-scarcity and space-faring society.   
 - [Blog Post] [A Roadmap to a Post-Scarcity Society](https://lorenzopieri.com/post_scarcity/) - An actionable roadmap to post-scarcity and the role of automation.
 - [Blog Post] [Moore's Law for Everything](https://moores.samaltman.com/) - A US-centric proposal to redistribute AI benefits. 
@@ -41,6 +39,8 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 ##### Universal Basic Income
 
 - [Website] [Ubi Research](https://ubiresearch.org/ ) - UBI Research is a think tank built to examine the merits and possible implementations of a UBI.
+
+
 
 ### Technology
 
@@ -69,3 +69,9 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 
 
 ****
+
+## Footnotes
+
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
