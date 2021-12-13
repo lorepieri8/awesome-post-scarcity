@@ -47,6 +47,7 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 ##### Artificial Intelligence and Robotics
 
 - [Website] [Artificial General Intelligence - A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html) - Overview of AGI research.
+- [Website] [AI Impacts](https://aiimpacts.org/category/ai-timelines/) - Dedicated to answering decision-relevant questions about the future of AI. Notable for the visualization of tech and AI-related historic trends and timelines.
 - [Book] [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near) - Classic book on exponential progress.
 - [Book] [Superintelligence: Paths, Dangers, Strategies](https://www.goodreads.com/book/show/20527133-superintelligence) 
 - [Book] [Singularity Hypotheses](https://www.goodreads.com/book/show/16198679-singularity-hypotheses) - AI singularity scenarios. 
