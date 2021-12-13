@@ -40,6 +40,8 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 ##### Universal Basic Income
 
 - [Website] [Ubi Research](https://ubiresearch.org/ ) - UBI Research is a think tank built to examine the merits and possible implementations of a UBI.
+- [Video] [Automated Economy Explained: Mechanics of a Basic Income](https://www.youtube.com/watch?v=OEkT14RBzDI&list=WL&index=25) - Simplified explanation of a UBI based on taxation for automated businesses.
+
 
 
 
