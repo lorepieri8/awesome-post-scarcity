@@ -35,6 +35,7 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 
 - [Book] [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://www.goodreads.com/en/book/show/50157837-the-price-of-tomorrow) 
 - [Book] [Rise of the Robots: Technology and the Threat of a Jobless Future](https://www.goodreads.com/book/show/22928874-rise-of-the-robots) 
+- [Organisation] [Singularity Group](https://www.su.org/our-process) - Platform tailored for entrepreneurial leaders/founders to build high positive-impact ventures, using "exponential technologies".
 
 ##### Universal Basic Income
 
