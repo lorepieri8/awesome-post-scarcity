@@ -8,6 +8,7 @@ Your contributions are welcome!
 * Follow the notations and conventions already adopted.
 * Check your spelling and grammar.
 * Make sure it's relevant for post-scarcity. For instance, deep learning or hydrogen cars are too narrow topics to be relevant alone, while AGI or fusion energy may be big individual contributors.
+* Quality > Quantity. Insert only resources that you would personally recommend. 
 * Send a Pull Request.
 
 ## License
