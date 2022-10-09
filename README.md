@@ -29,7 +29,7 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 - [Wiki] [adciv.org](http://adciv.org/Main_Page) - Post-Scarcity Wiki, gives an accessible overview of the field. 
 - [Forum] [Reddit Post-Scarcity](https://www.reddit.com/r/PostScarcity/) 
 - [Video] [Post Scarcity Civilizations](https://www.youtube.com/watch?v=_Kt7883oTd0) - Broad exploration of how a post scarcity civilization could look like.
-
+- [Project] [Post Scarcity Map](https://postscarcitymap.org/) - This project is an attempt to provide unbiased answers to the following question: How far are we from achieving post-scarcity and what are the bottlenecks?
 
 
 ### Economics
