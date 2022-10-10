@@ -30,6 +30,8 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 - [Forum] [Reddit Post-Scarcity](https://www.reddit.com/r/PostScarcity/) 
 - [Video] [Post Scarcity Civilizations](https://www.youtube.com/watch?v=_Kt7883oTd0) - Broad exploration of how a post scarcity civilization could look like.
 - [Project] [Post Scarcity Map](https://postscarcitymap.org/) - This project is an attempt to provide unbiased answers to the following question: How far are we from achieving post-scarcity and what are the bottlenecks?
+- [Survey] [The first Basic Post Scarcity Economy, Metaculus](https://www.metaculus.com/questions/10569/the-first-basic-post-scarcity-economy/) [The first Basic Post Scarcity Economy, Manifold Markets](https://manifold.markets/LorenzoPieri/when-will-basic-post-scarcity-econo) - When will Basic Post Scarcity Economy be achieved by a nation state? 
+
 
 
 ### Economics
