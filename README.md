@@ -43,6 +43,7 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 - [Book] [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs) - Analysis of a form of paid employment that is so completely pointless, unnecessary, or pernicious that even the employee cannot justify its existence.
 - [Organisation] [Singularity Group](https://www.su.org/our-process) - Platform tailored for entrepreneurial leaders/founders to build high positive-impact ventures, using "exponential technologies".
 - [Video] [Preparing for the (Non-Existent?) Future of Work](https://youtu.be/Q4wxANR8l0M) - Discussion about economic policies from the perspective of an utilitarian planner.
+- [Website] [humanprogress.org](https://humanprogress.org/trends/) - Plenty of datasets and trends illustrating improvements in human well-being in modern times.  
 
 ##### Universal Basic Income
 
