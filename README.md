@@ -33,7 +33,8 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 - [Project] [Nextkind](https://nextkind.org/) - For profit community actively working towards post scarcity.
 - [Project] [Humania](https://discord.gg/jmrkWtd4KF) - A moneyless gift-economy project, focused on building the Humania Urban Village: a hub for sustainable living and social innovation. (Discord)
 - [Survey] The first Basic Post Scarcity Economy, [Metaculus](https://www.metaculus.com/questions/10569/the-first-basic-post-scarcity-economy/) or [Manifold Markets](https://manifold.markets/LorenzoPieri/when-will-basic-post-scarcity-econo) - When will Basic Post Scarcity Economy be achieved by a nation state? 
-- [Youtube Channel] [David Shapiro](https://www.youtube.com/@DavidShapiroAutomator/videos) - Covering a large number of topics related to post-scarcity, AI and AGI. 
+- [Youtube Channel] [David Shapiro](https://www.youtube.com/@DavidShapiroAutomator/videos) - Covering a large number of topics related to post-scarcity, AI and AGI.
+- [Short Story] [Manna](https://marshallbrain.com/manna1) - Fictional story of two opposite futures in a robot dominated economy. 
 
 
 ### Economics
