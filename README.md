@@ -25,7 +25,6 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 - [Fiction Books] [The Culture Series](https://en.wikipedia.org/wiki/Culture_series) - Scifi series, in post-scarcity and space-faring society.   
 - [Blog Post] [A Roadmap to a Post-Scarcity Society](https://lorenzopieri.com/post_scarcity/) - An actionable roadmap to post-scarcity and the role of automation in the process.
 - [Blog Post] [Basic Post Scarcity Q&A](https://lorenzopieri.com/post_scarcity_qa/) - FAQ on Basic Post Scarcity (opinionated)
-- [Blog Post] [Moore's Law for Everything](https://moores.samaltman.com/) - A US-centric proposal to redistribute AI benefits. 
 - [Wiki] [adciv.org](http://adciv.org/Main_Page) - Post-Scarcity Wiki, gives an accessible overview of the field. 
 - [Forum] [Reddit Basic-Post-Scarcity](https://www.reddit.com/r/BasicPostScarcity/) 
 - [Video] [Post Scarcity Civilizations](https://www.youtube.com/watch?v=_Kt7883oTd0) - Broad exploration of how a post scarcity civilization could look like.
