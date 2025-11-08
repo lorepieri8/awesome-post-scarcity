@@ -26,7 +26,8 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 - [Book] [Post-Scarcity Anarchism](https://en.wikipedia.org/wiki/Post-Scarcity_Anarchism) - Description of an economic system based on social ecology, libertarian municipalism, and an abundance of fundamental resources.
 - [Fiction Books] [The Culture Series](https://en.wikipedia.org/wiki/Culture_series) - Scifi series, in post-scarcity and space-faring society.  
 - [Wiki] [adciv.org](http://adciv.org/Main_Page) - Post-Scarcity Wiki, gives an accessible overview of the field. 
-- [Forum] [Reddit Basic-Post-Scarcity](https://www.reddit.com/r/BasicPostScarcity/) 
+- [Forum] [Reddit Basic-Post-Scarcity](https://www.reddit.com/r/BasicPostScarcity/)
+- [Forum][Post Scarcity Discord](https://discord.gg/nQVcwh2u)
 - [Video] [Post Scarcity Civilizations](https://www.youtube.com/watch?v=_Kt7883oTd0) - Broad exploration of how a post scarcity civilization could look like.
 - [Project] [Nextkind](https://nextkind.org/) - For profit community actively working towards post scarcity.
 - [Project] [Humania](https://discord.gg/jmrkWtd4KF) - A moneyless gift-economy project, focused on building the Humania Urban Village: a hub for sustainable living and social innovation. (Discord)
