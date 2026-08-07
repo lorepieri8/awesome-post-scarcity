@@ -35,7 +35,7 @@ To add a new entry please check [here](https://github.com/lorepieri8/awesome-pos
 - [Youtube Channel] [David Shapiro](https://www.youtube.com/@DavidShapiroAutomator/videos) - Covering a large number of topics related to post-scarcity, AI and AGI.
 - [Short Story] [Manna](https://marshallbrain.com/manna1) - Fictional story of two opposite futures in a robot dominated economy.
 - [Website] [postlabor.dev](https://www.postlabor.dev/)  - Building frameworks, tools, and systems to develop a healthy transition into the post-labor world.
-- [Book] [Job-Less Utopia]https://hutter1.net/publ/jobsubi.pdf)  - Macroeconomics in the age of AGI.
+- [Book] [Job-Less Utopia](https://hutter1.net/publ/jobsubi.pdf)  - Macroeconomics in the age of AGI.
 
 
 ### Economics
